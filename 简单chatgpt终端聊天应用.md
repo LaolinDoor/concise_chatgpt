@@ -64,6 +64,6 @@ py chat_chatgpt.py
 
 5. 测试运行结果：
 
-![image-20230331210359246](C:\Users\linzi\Desktop\BaiduSyncdisk\upGithub\chatgpt简明教程\img\image-20230331210359246.png)
+![image-20230331210359246](img/image-20230331210359246.png)
 
 大功告成！
