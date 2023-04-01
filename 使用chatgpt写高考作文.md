@@ -2,7 +2,7 @@
 
 下面是使用chatgpt写一篇关于2022年北京卷的高考作文
 
-![image-20230331100925620](C:\Users\linzi\Desktop\BaiduSyncdisk\upGithub\chatgpt简明教程\img\image-20230331100925620.png)
+![image-20230331100925620](img/image-20230331100925620.png)
 
 
 
@@ -45,5 +45,5 @@
 
 生成过程：
 
-![image-20230331101846700](C:\Users\linzi\Desktop\BaiduSyncdisk\upGithub\chatgpt简明教程\img\image-20230331101846700.png)
+![image-20230331101846700](img/image-20230331101846700.png)
 
