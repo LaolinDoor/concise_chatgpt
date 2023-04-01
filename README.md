@@ -12,7 +12,7 @@ openai官方文档：https://platform.openai.com/docs/introduction
 
 chatgpt是什么？下面是chatgpt的回答
 
-![image-20230331200414579](C:\Users\linzi\Desktop\BaiduSyncdisk\upGithub\chatgpt简明教程\img\image-20230331200414579.png)
+![image-20230331200414579](img/image-20230331200414579.png)
 
 你只要记住四个字就行了---“回答问题”，如果不够，再加两字---智能，他是迄今为止，最好的聊天模型，这里的最好是相对其他如Sifi，小度等聊天助手而言，他的出现确实令人惊艳，也确实能解决你的很多问题，但我希望你还是不要过度依赖chatgpt。记住chatgpt归根到底是人类智慧的产物，而你是一个人，万物之灵长，你有思想，有意识，有温度，甭管这个世界发展成什么样，你都应该去掌控他，而不是被他所左右。闲言少叙，开始。
 
