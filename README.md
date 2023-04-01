@@ -175,8 +175,8 @@ chatgpt是什么？下面是chatgpt的回答
 
    # 实例演示
 
-   [使用chatgpt写高考作文]: ..\chatgpt简明教程\使用chatgpt写高考作文.md
-   [chatgpt终端聊天应用]: ..\chatgpt简明教程\简单chatgpt终端聊天应用.md
+   [使用chatgpt写高考作文]: (使用chatgpt写高考作文.md)
+   [chatgpt终端聊天应用]: (简单chatgpt终端聊天应用.md)
 
    
 
